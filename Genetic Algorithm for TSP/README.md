@@ -4,7 +4,7 @@ Traveling Salesman Problem: Find the shortest possible tour that visits each cit
 #### Chosen operators:
 	Selection: Fitness proportionate selection (FPS)
 	Crossover: Partially mapped crossover (PMX)
-	Mutation: Switch two tours for a 60% chance
+	Mutation: Switch two cities for a 60% chance
 
 
 # Prerequisites
