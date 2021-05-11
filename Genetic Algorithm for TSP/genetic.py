@@ -169,7 +169,6 @@ if __name__ == "__main__":
     for i in range(nGen):
         s = selection(currPop)
         currPop = s[0]
-        print(type(currPop))
         elitePop = s[1]
         offspring = []
         #Ensure number of offspring is half of population
